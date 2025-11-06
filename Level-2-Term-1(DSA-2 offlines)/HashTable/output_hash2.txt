@@ -1,0 +1,102 @@
+----- Load factor  = 0.39992 -----
+collisons of insertion in Hashtable (seperate chaining)   : 734
+collisons of insertion in Hashtable (Linear Probing)      : 1417
+collisons of insertion in Hashtable (Double Hashing)      : 1164
+Average Search Time (Seperate chaining, microsecond): 0.25775
+Average Search Time (Linear Probing, microsecond)   : 0.118
+Average Search Time (Double Hashing, microsecond)   : 0.17175
+Average probes (Linear probing)                 : 1.28
+Average probes (Double hashing)                 : 1.2275
+Post-Deletion :
+Average Search Time (Seperate chaining, microsecond) : 0.18125
+Average Search Time (Linear Probing, microsecond)    : 0.1815
+Average Search Time (Double Hashing, microsecond)    : 0.22175
+Average Probes (Linear Probing)                  : 2.5525
+Average Probes (Double Hashing)                  : 2.1
+
+
+----- Load factor  = 0.49995 -----
+collisons of insertion in Hashtable (seperate chaining)   : 1099
+collisons of insertion in Hashtable (Linear Probing)      : 2725
+collisons of insertion in Hashtable (Double Hashing)      : 2009
+Average Search Time (Seperate chaining, microsecond): 0.169
+Average Search Time (Linear Probing, microsecond)   : 0.0924
+Average Search Time (Double Hashing, microsecond)   : 0.1392
+Average probes (Linear probing)                 : 1.54
+Average probes (Double hashing)                 : 1.388
+Post-Deletion :
+Average Search Time (Seperate chaining, microsecond) : 0.2052
+Average Search Time (Linear Probing, microsecond)    : 0.2024
+Average Search Time (Double Hashing, microsecond)    : 0.2312
+Average Probes (Linear Probing)                  : 3.19
+Average Probes (Double Hashing)                  : 2.508
+
+
+----- Load factor  = 0.59998 -----
+collisons of insertion in Hashtable (seperate chaining)   : 1542
+collisons of insertion in Hashtable (Linear Probing)      : 4681
+collisons of insertion in Hashtable (Double Hashing)      : 3230
+Average Search Time (Seperate chaining, microsecond): 0.1335
+Average Search Time (Linear Probing, microsecond)   : 0.0991667
+Average Search Time (Double Hashing, microsecond)   : 0.1385
+Average probes (Linear probing)                 : 1.85333
+Average probes (Double hashing)                 : 1.52833
+Post-Deletion :
+Average Search Time (Seperate chaining, microsecond) : 0.205
+Average Search Time (Linear Probing, microsecond)    : 0.216167
+Average Search Time (Double Hashing, microsecond)    : 0.223667
+Average Probes (Linear Probing)                  : 4.09667
+Average Probes (Double Hashing)                  : 2.88833
+
+
+----- Load factor  = 0.69991 -----
+collisons of insertion in Hashtable (seperate chaining)   : 2009
+collisons of insertion in Hashtable (Linear Probing)      : 8263
+collisons of insertion in Hashtable (Double Hashing)      : 5145
+Average Search Time (Seperate chaining, microsecond): 0.156714
+Average Search Time (Linear Probing, microsecond)   : 0.108571
+Average Search Time (Double Hashing, microsecond)   : 0.141714
+Average probes (Linear probing)                 : 2.16143
+Average probes (Double hashing)                 : 1.67
+Post-Deletion :
+Average Search Time (Seperate chaining, microsecond) : 0.311857
+Average Search Time (Linear Probing, microsecond)    : 0.283286
+Average Search Time (Double Hashing, microsecond)    : 0.325
+Average Probes (Linear Probing)                  : 5.48571
+Average Probes (Double Hashing)                  : 3.57143
+
+
+----- Load factor  = 0.79994 -----
+collisons of insertion in Hashtable (seperate chaining)   : 2541
+collisons of insertion in Hashtable (Linear Probing)      : 15035
+collisons of insertion in Hashtable (Double Hashing)      : 8124
+Average Search Time (Seperate chaining, microsecond): 0.327875
+Average Search Time (Linear Probing, microsecond)   : 0.266
+Average Search Time (Double Hashing, microsecond)   : 0.25725
+Average probes (Linear probing)                 : 2.97875
+Average probes (Double hashing)                 : 2.065
+Post-Deletion :
+Average Search Time (Seperate chaining, microsecond) : 0.277125
+Average Search Time (Linear Probing, microsecond)    : 0.348125
+Average Search Time (Double Hashing, microsecond)    : 0.342375
+Average Probes (Linear Probing)                  : 9.2075
+Average Probes (Double Hashing)                  : 4.53875
+
+
+----- Load factor  = 0.89997 -----
+collisons of insertion in Hashtable (seperate chaining)   : 3140
+collisons of insertion in Hashtable (Linear Probing)      : 35905
+collisons of insertion in Hashtable (Double Hashing)      : 14215
+Average Search Time (Seperate chaining, microsecond): 0.171111
+Average Search Time (Linear Probing, microsecond)   : 0.210667
+Average Search Time (Double Hashing, microsecond)   : 0.179778
+Average probes (Linear probing)                 : 6.15
+Average probes (Double hashing)                 : 2.39778
+Post-Deletion :
+Average Search Time (Seperate chaining, microsecond) : 0.348778
+Average Search Time (Linear Probing, microsecond)    : 0.797333
+Average Search Time (Double Hashing, microsecond)    : 0.534444
+Average Probes (Linear Probing)                  : 30.9167
+Average Probes (Double Hashing)                  : 7.83
+
+

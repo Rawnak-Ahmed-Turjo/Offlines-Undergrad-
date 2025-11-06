@@ -1,0 +1,31 @@
+Unsuccessful
+Yes
+10_"Phone"
+10_"Phone"(5_"Mouse",)
+5_"Mouse"(1_"Charger",10_"Phone")
+5_"Mouse"(1_"Charger",10_"Phone"(,15_"Monitor"))
+5_"Mouse"(1_"Charger",15_"Monitor"(10_"Phone",20_"Laptop"))
+5_"Mouse"(1_"Charger",15_"Monitor"(10_"Phone"(,13_"Keyboard"),20_"Laptop"))
+5_"Mouse"(1_"Charger",15_"Monitor"(10_"Phone"(,13_"Keyboard"),20_"Laptop"(,25_"Router")))
+5_"Mouse"(1_"Charger",15_"Monitor"(10_"Phone"(,13_"Keyboard"),25_"Router"(20_"Laptop",30_"Tablet")))
+15_"Monitor"(5_"Mouse"(1_"Charger",10_"Phone"(,13_"Keyboard")),25_"Router"(20_"Laptop",30_"Tablet"(28_"Speaker",)))
+15_"Monitor"(5_"Mouse"(1_"Charger",10_"Phone"(,13_"Keyboard")),25_"Router"(20_"Laptop",28_"Speaker"(27_"Camera",30_"Tablet")))
+15_"MonitorPro"(5_"Mouse"(1_"Charger",10_"Phone"(,13_"Keyboard")),25_"Router"(20_"Laptop",28_"Speaker"(27_"Camera",30_"Tablet")))
+Stock left : 8
+Not available
+15_"MonitorPro"(5_"Mouse"(1_"Charger",10_"Phone"(,13_"Keyboard")),25_"Router"(20_"Laptop",28_"Speaker"(27_"Camera",30_"Tablet")))
+15_"MonitorPro"(5_"Mouse"(1_"Charger",10_"Phone"(,13_"Keyboard")),25_"Router"(20_"Laptop",28_"Speaker"(27_"Camera",30_"Tablet")))
+15_"MonitorPro"(5_"Mouse"(1_"Charger",10_"Phone"(,13_"Keyboard")),27_"Camera"(20_"Laptop",28_"Speaker"(,30_"Tablet")))
+15_"MonitorPro"(5_"Mouse"(1_"Charger",10_"Phone"(,13_"Keyboard")),28_"Speaker"(27_"Camera",30_"Tablet"))
+15_"MonitorPro"(5_"Mouse"(1_"Charger",10_"Phone"(,13_"Keyboard")),28_"Speaker"(,30_"Tablet"))
+15_"MonitorPro"(5_"Mouse"(1_"Charger",10_"Phone"(,13_"Keyboard")),28_"Speaker")
+5_"Mouse"(1_"Charger",13_"Keyboard"(10_"Phone",15_"MonitorPro"))
+5_"Mouse"(1_"Charger",13_"Keyboard"(,15_"MonitorPro"))
+no
+4
+1=>"Charger"(2)
+5=>"Mouse"(2)
+13=>"Keyboard"(4)
+15=>"MonitorPro"(20)
+Successful
+0

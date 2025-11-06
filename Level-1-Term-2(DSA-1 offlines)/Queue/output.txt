@@ -1,0 +1,16 @@
+-------------Testing Array-based Queue-------------
+Enqueueed 10 onto the queue
+Current queue: 10 
+-------------------
+Enqueueed 20 onto the queue
+Current queue: 10 20 
+-------------------
+Enqueueed 30 onto the queue
+Current queue: 10 20 30 
+-------------------
+Enqueueed 40 onto the queue
+Current queue: 10 20 30 40 
+-------------------
+Dequeueped value: 10
+Current queue: 20 30 40 
+-------------------
